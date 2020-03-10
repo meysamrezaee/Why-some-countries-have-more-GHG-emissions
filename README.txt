@@ -8,6 +8,21 @@ Skills required:
   - Understanding Numpy, Pandas, Seaborn libraries
   - Understanding statistical concepts such as correlation, scatter plots, and histograms
 
+Results:
+  - Variables that have a high correlation with CO2 emission:
+    - Population: 0.85
+    - Surface area: 0.51
+    - GDP: 0.94
+    - Fossil fuel production: 0.87
+    - Fossil fuel consumption: 0.997
+  - Variables that are not correlated with CO2 emissions:
+    - Urban population percentage: -0.13
+    - GDP per capita: -0.13
+    - Exchange rate: -0.03
+    - Life expectancy: -0.12
+    - Fertility rate: -0.05
+    - Infant mortality: 0.09
+
 Data used from:
 https://data.un.org/
   SYB62_1_201907_Population, Surface Area and Density.csv
