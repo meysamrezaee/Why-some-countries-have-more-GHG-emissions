@@ -8,6 +8,9 @@ Skills required:
   - Understanding Numpy, Pandas, Seaborn libraries
   - Understanding statistical concepts such as correlation, scatter plots, and histograms
 
+Challenges:
+  - Data needs to be collected from multiple sources and merge together into a single dataset
+
 Results:
   - Variables that have a high correlation with CO2 emission:
     - Population: 0.85
